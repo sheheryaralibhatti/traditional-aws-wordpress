@@ -1,1 +1,1 @@
-# traditional-aws-wordpress
+# Traditional AWS Wordpress Three Tier Architecture 
